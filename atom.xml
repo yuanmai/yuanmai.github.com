@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>麦宇安</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://www.maiyuan.me/"/>
+  <updated>2016-07-02T14:31:16.000Z</updated>
+  <id>http://www.maiyuan.me/</id>
+  
+  <author>
+    <name>麦宇安</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>罗马数字Kata</title>
+    <link href="http://www.maiyuan.me/2016/07/02/roman-numeral-kata-in-clojure/"/>
+    <id>http://www.maiyuan.me/2016/07/02/roman-numeral-kata-in-clojure/</id>
+    <published>2016-07-02T14:31:16.000Z</published>
+    <updated>2016-07-02T14:31:16.000Z</updated>
+    
+    <content type="html"><![CDATA[<embed src="http://player.youku.com/player.php/sid/XNTgyMjY0ODky/v.swf" allowfullscreen="true" quality="high" width="480" height="400" align="middle" allowscriptaccess="always" type="application/x-shockwave-flash">
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;embed src=&quot;http://player.youku.com/player.php/sid/XNTgyMjY0ODky/v.swf&quot; allowfullscreen=&quot;true&quot; quality=&quot;high&quot; width=&quot;480&quot; height=&quot;400&quot; align
+    
+    </summary>
+    
+    
+      <category term="Kata" scheme="http://www.maiyuan.me/tags/Kata/"/>
+    
+      <category term="Clojure" scheme="http://www.maiyuan.me/tags/Clojure/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>保龄球Kata</title>
+    <link href="http://www.maiyuan.me/2016/07/02/bowling-score-kata-in-clojure/"/>
+    <id>http://www.maiyuan.me/2016/07/02/bowling-score-kata-in-clojure/</id>
+    <published>2016-07-02T14:31:16.000Z</published>
+    <updated>2016-07-02T14:31:16.000Z</updated>
+    
+    <content type="html"><![CDATA[<embed src="http://player.youku.com/player.php/sid/XNTgyMjc0NjY0/v.swf" allowfullscreen="true" quality="high" width="480" height="400" align="middle" allowscriptaccess="always" type="application/x-shockwave-flash">
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;embed src=&quot;http://player.youku.com/player.php/sid/XNTgyMjc0NjY0/v.swf&quot; allowfullscreen=&quot;true&quot; quality=&quot;high&quot; width=&quot;480&quot; height=&quot;400&quot; align
+    
+    </summary>
+    
+    
+      <category term="Kata" scheme="http://www.maiyuan.me/tags/Kata/"/>
+    
+      <category term="Clojure" scheme="http://www.maiyuan.me/tags/Clojure/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>网球Kata by 申导</title>
+    <link href="http://www.maiyuan.me/2014/11/14/tennis-game-kata-by-jacky/"/>
+    <id>http://www.maiyuan.me/2014/11/14/tennis-game-kata-by-jacky/</id>
+    <published>2014-11-13T23:47:21.000Z</published>
+    <updated>2017-01-03T06:19:29.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>在CSD课上和申导切磋网球Kata的最终版：</p>
+<embed src="http://www.tudou.com/v/e24zKWezmSQ/&amp;bid=05&amp;resourceId=0_05_05_99/v.swf" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" wmode="opaque" width="480" height="400">]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;在CSD课上和申导切磋网球Kata的最终版：&lt;/p&gt;
+&lt;embed src=&quot;http://www.tudou.com/v/e24zKWezmSQ/&amp;amp;bid=05&amp;amp;resourceId=0_05_05_99/v.swf&quot; type=&quot;application/
+    
+    </summary>
+    
+    
+      <category term="Kata" scheme="http://www.maiyuan.me/tags/Kata/"/>
+    
+      <category term="Java" scheme="http://www.maiyuan.me/tags/Java/"/>
+    
+  </entry>
+  
+</feed>
